@@ -17,7 +17,7 @@ Quelques modifications ont et seront fait sur le patch pour l'améliorer.
 
 # Crédit
 
-Merci à Teleusis qui à travailler sur la traduction (projet initial [UndertaleNX](https://github.com/Teleusis/UndertaleFR_NX)
+Merci à Teleusis qui à travailler sur la traduction (projet initial) [UndertaleNX](https://github.com/Teleusis/UndertaleFR_NX)
 
 Un grand merci à [underale.fr](https://undertale-fr.com/) qui ont traduit bénévolement le jeu.
 
