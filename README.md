@@ -7,7 +7,7 @@ Il nécessite la version 1.11
 
 - Télécharger la dernière version du mod : [Undertale Mod FR Switch](https://github.com/THZoria/undertale_switch/releases/latest)
 - Si vous avez __SXOS__ copier le dossier __sxos__ à la racine de votre micro sd.
-- Si vous avec __Atmosphère__ copier le dossier __atmosphere__ à la racine de votre micro sd.
+- Si vous avez__Atmosphère__ copier le dossier __atmosphere__ à la racine de votre micro sd.
 Démarrer le jeu et il sera en français.
 Quelques modifications ont et seront fait sur le patch pour l'améliorer.
 
